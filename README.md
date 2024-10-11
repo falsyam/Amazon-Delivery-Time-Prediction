@@ -81,7 +81,7 @@ graph TD
 
 ### Delivery Time Based on Weather Conditions
 
-![download (2).png](images/download_(2).png)
+![download (2).png](/images/download_(2).png)
 
 **Insight**:
 
@@ -91,7 +91,7 @@ graph TD
 
 ### Delivery Time Based on Traffic
 
-![download (3).png](images/download_(3).png)
+![download (3).png](/images/download_(3).png)
 
 **Insight**:
 
@@ -101,7 +101,7 @@ graph TD
 
 ### Correlation Between Agent Rating and Delivery Time
 
-![download (4).png](images/download_(4).png)
+![download (4).png](/images/download_(4).png)
 
 **Insight**:
 
@@ -166,7 +166,7 @@ To maximize the performance of the Gradient Boosting model, I conducted hyperpar
 
 Scatter Plot Actual vs Predicted
 
-![download (5).png](images/download_(5).png)
+![download (5).png](/images/download_(5).png)
 
 Overall, despite some outliers, the model seems to do a pretty good job of predicting the values of this data overall.
 
@@ -174,7 +174,7 @@ Overall, despite some outliers, the model seems to do a pretty good job of predi
 
 ## Feature Importance
 
-![download (6).png](images/download_(6).png)
+![download (6).png](/images/download_(6).png)
 
 1. **Agent_Rating** and **Weather** are the most influential features in the model, with the highest importance values, indicating that these features play a key role in the model's decision-making process.
 2. **Traffic_encoded** and **Distance_km** also have high importance, suggesting that they significantly contribute to the model's accuracy in predicting the target variable.
