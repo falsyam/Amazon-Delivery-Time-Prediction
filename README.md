@@ -162,7 +162,7 @@ To maximize the performance of the Gradient Boosting model, I conducted hyperpar
 
 ### Actual vs Predicted
 
-![image.png](images/Screenshot 2024-10-11 130634.png)
+![image.png](images/Screenshot2024-10-11130634.png)
 
 Scatter Plot Actual vs Predicted
 
