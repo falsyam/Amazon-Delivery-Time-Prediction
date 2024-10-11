@@ -72,7 +72,7 @@ graph TD
 
 ### Descriptive Statistics of Delivery Time
 
-![image.png](images/Screenshot 2024-10-11 132109.png)
+![image.png](images/Screenshot2024-10-11132109.png)
 
 - The **mean** and **median** are very close to each other, suggesting the distribution is fairly symmetric and not heavily skewed.
 - The range of delivery times is quite large, from **10 minutes to 250 minutes**, showing a wide variation in delivery performance.
@@ -150,7 +150,7 @@ Data splited by 80:20 proportion for train data and test data.
 
 ## Model Comparation
 
-![image.png](images/Screenshot 2024-10-11 123827.png)
+![image.png](images/Screenshot2024-10-11123827.png)
 
 We got the lowest RMSE score 32 minutes by Gradient Boosting Model.
 
