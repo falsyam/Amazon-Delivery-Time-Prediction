@@ -70,6 +70,10 @@ graph TD
 
 ## Exploratory Data Analysis
 
+### Handling Outliers
+![image.png](images/outliers.png)
+Six features have outliers and need to removed based IQR(Interquartile Range) upper and lower limit.
+
 ### Descriptive Statistics of Delivery Time
 
 ![image.png](images/Screenshot2024-10-11132109.png)
