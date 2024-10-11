@@ -72,7 +72,7 @@ graph TD
 
 ### Descriptive Statistics of Delivery Time
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/2b3ca3f1-d2ee-49f7-9332-22d327da3082/image.png)
+![image.png](images/Screenshot 2024-10-11 132109.png)
 
 - The **mean** and **median** are very close to each other, suggesting the distribution is fairly symmetric and not heavily skewed.
 - The range of delivery times is quite large, from **10 minutes to 250 minutes**, showing a wide variation in delivery performance.
@@ -81,7 +81,7 @@ graph TD
 
 ### Delivery Time Based on Weather Conditions
 
-![download (2).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/dfc64677-19c4-4287-b839-01cf55ebf7da/download_(2).png)
+![download (2).png](images/download_(2).png)
 
 **Insight**:
 
@@ -91,7 +91,7 @@ graph TD
 
 ### Delivery Time Based on Traffic
 
-![download (3).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/03a7a70d-0ee8-48cf-b75b-295ba52533f5/download_(3).png)
+![download (3).png](images/download_(3).png)
 
 **Insight**:
 
@@ -101,7 +101,7 @@ graph TD
 
 ### Correlation Between Agent Rating and Delivery Time
 
-![download (4).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/b1c9e1b9-3c86-44dc-8319-f28eeb6ffcb1/download_(4).png)
+![download (4).png](images/download_(4).png)
 
 **Insight**:
 
@@ -150,7 +150,7 @@ Data splited by 80:20 proportion for train data and test data.
 
 ## Model Comparation
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/0c202967-7740-4e24-ab72-0642bb3358e6/image.png)
+![image.png](images/Screenshot 2024-10-11 123827.png)
 
 We got the lowest RMSE score 32 minutes by Gradient Boosting Model.
 
@@ -162,11 +162,11 @@ To maximize the performance of the Gradient Boosting model, I conducted hyperpar
 
 ### Actual vs Predicted
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/f5619fcd-ed59-4495-8950-3e45f49f0f73/image.png)
+![image.png](images/Screenshot 2024-10-11 130634.png)
 
 Scatter Plot Actual vs Predicted
 
-![download (5).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/6a5adf02-b8f1-4868-8f26-713ff7b7059f/download_(5).png)
+![download (5).png](images/download_(5).png)
 
 Overall, despite some outliers, the model seems to do a pretty good job of predicting the values of this data overall.
 
@@ -174,7 +174,7 @@ Overall, despite some outliers, the model seems to do a pretty good job of predi
 
 ## Feature Importance
 
-![download (6).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/05c19eb0-4a3e-4e0e-8382-2b07b1cc918b/fd2c2e34-5b28-4fd2-8b73-32344d289916/download_(6).png)
+![download (6).png](images/download_(6).png)
 
 1. **Agent_Rating** and **Weather** are the most influential features in the model, with the highest importance values, indicating that these features play a key role in the model's decision-making process.
 2. **Traffic_encoded** and **Distance_km** also have high importance, suggesting that they significantly contribute to the model's accuracy in predicting the target variable.
