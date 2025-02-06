@@ -200,6 +200,6 @@ Companies can improve customer service by:
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/falsyam/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/fadhil-asyam/)  
 [![Email](https://img.shields.io/badge/Email-YourEmail-red?logo=gmail)](mailto:fadhilasyam11@gmail.com)
 
