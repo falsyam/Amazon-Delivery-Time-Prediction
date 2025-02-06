@@ -193,3 +193,13 @@ Companies can improve customer service by:
 2. Companies must anticipate deliveries during rush hours or holidays when traffic significantly increases, and also provide real-time information if there are weather issues that may delay delivery times.
 
 # Thank You !
+
+
+
+
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/falsyam/)  
+[![Email](https://img.shields.io/badge/Email-YourEmail-red?logo=gmail)](mailto:fadhilasyam11@gmail.com)
+
